@@ -1,4 +1,5 @@
-### Hi there 👋
+Olá! Me chamo João Victor, sou estudante de programação na Fundação Bradesco.
+Formação básica em: PHYTON, HTML e CSS... 
 
 <!--
 **JoaoVictorBFarias/JoaoVictorBFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
